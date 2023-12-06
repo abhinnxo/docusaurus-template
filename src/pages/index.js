@@ -2,19 +2,29 @@ import clsx from "clsx";
 import Link from "@docusaurus/Link";
 import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import Layout from "@theme/Layout";
-
 import Heading from "@theme/Heading";
 import styles from "./index.module.css";
+import myImageUrl from "./docusaurus.png";
 
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
   return (
     <header className={clsx("hero hero--primary", styles.heroBanner)}>
       <div className="container">
+        {/* Add the image here */}
+        <img src={myImageUrl} width="100px" alt="Example banner" />;
         <Heading as="h1" className="hero__title">
           {siteConfig.title}
         </Heading>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
+        <div className={styles.buttons}>
+          <Link
+            className="button button--secondary button--lg"
+            to="https://docusaurus-template.abhinn.xyz/"
+          >
+            View Live Preview 🚀
+          </Link>
+        </div>
       </div>
     </header>
   );
