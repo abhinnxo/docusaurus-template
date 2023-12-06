@@ -1,0 +1,51 @@
+/* Any CSS included here will be global. The classic template
+  bundles Infima by default. Infima is a CSS framework designed to
+  work well for content-centric websites. */
+
+/* You can override the default Infima variables here. */
+:root {
+  /* Primary Color and Shades */
+  /** The primary color of the theme. Slightly muted green. */
+  --ifm-color-primary: #2e8555;
+  /** A darker shade of the primary color for backgrounds and borders. */
+  --ifm-color-primary-dark: #29784c;
+  /** An even darker shade of the primary color for strong contrast. */
+  --ifm-color-primary-darker: #277148;
+  /** The darkest shade of the primary color for maximum contrast. */
+  --ifm-color-primary-darkest: #205d3b;
+  /** A lighter shade of the primary color for highlighting. */
+  --ifm-color-primary-light: #33925d;
+  /** An even lighter shade of the primary color for borders and subtle accents. */
+  --ifm-color-primary-lighter: #359962;
+  /** The lightest shade of the primary color for minimal contrast. */
+  --ifm-color-primary-lightest: #3cad6e;
+
+  /* Other Variables */
+  /** Font size for code blocks. */
+  --ifm-code-font-size: 95%;
+  /** Background color for highlighted lines in code blocks. */
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+}
+
+/* For readability concerns, you should choose a lighter palette in dark mode. */
+[data-theme="dark"] {
+  /* Primary Color and Shades */
+  /** Lighter green for dark theme. */
+  --ifm-color-primary: #25c2a0;
+  /** Darker shade for dark theme. */
+  --ifm-color-primary-dark: #21af90;
+  /** Even darker shade for strong contrast in dark theme. */
+  --ifm-color-primary-darker: #1fa588;
+  /** Darkest shade for maximum contrast in dark theme. */
+  --ifm-color-primary-darkest: #1a8870;
+  /** Lighter shade for highlighting in dark theme. */
+  --ifm-color-primary-light: #29d5b0;
+  /** Even lighter shade for borders and subtle accents in dark theme. */
+  --ifm-color-primary-lighter: #32d8b4;
+  /** Lightest shade for minimal contrast in dark theme. */
+  --ifm-color-primary-lightest: #4fddbf;
+
+  /* Other Variables */
+  /** More opaque background for highlighted lines in dark theme. */
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
