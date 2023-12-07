@@ -1,0 +1,23 @@
+{
+  "id": "tutorials/deploy-your-site",
+  "title": "Deploy your site",
+  "description": "Docusaurus is a static-site-generator (also called Jamstack).",
+  "source": "@site/docs/tutorials/deploy-your-site.md",
+  "sourceDirName": "tutorials",
+  "slug": "/deploy-your-site",
+  "permalink": "/docs/deploy-your-site",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "slug": "/deploy-your-site"
+  },
+  "sidebar": "mySidebar",
+  "previous": {
+    "title": "Using multiple sidebars",
+    "permalink": "/docs/sidebar/multiple-sidebars"
+  }
+}

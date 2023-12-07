@@ -1,0 +1,27 @@
+{
+  "id": "tutorials/Components/admonitions",
+  "title": "Admonitions",
+  "description": "Handling admonitions/callouts in Docusaurus Markdown",
+  "source": "@site/docs/tutorials/Components/markdown-features-admonitions.mdx",
+  "sourceDirName": "tutorials/Components",
+  "slug": "/markdown-features/admonitions",
+  "permalink": "/docs/markdown-features/admonitions",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "admonitions",
+    "description": "Handling admonitions/callouts in Docusaurus Markdown",
+    "slug": "/markdown-features/admonitions"
+  },
+  "sidebar": "mySidebar",
+  "previous": {
+    "title": "Deploy your site",
+    "permalink": "/docs/tutorials/deploy-your-site"
+  },
+  "next": {
+    "title": "markdown-features-assets",
+    "permalink": "/docs/tutorials/Components/markdown-features-assets"
+  }
+}

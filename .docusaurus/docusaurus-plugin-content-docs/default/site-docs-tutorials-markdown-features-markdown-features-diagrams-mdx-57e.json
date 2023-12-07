@@ -1,0 +1,28 @@
+{
+  "id": "tutorials/markdown-features/diagrams",
+  "title": "Diagrams",
+  "description": "Writing diagrams with Mermaid",
+  "source": "@site/docs/tutorials/markdown-features/markdown-features-diagrams.mdx",
+  "sourceDirName": "tutorials/markdown-features",
+  "slug": "/markdown-features/diagrams",
+  "permalink": "/docs/markdown-features/diagrams",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "diagrams",
+    "title": "Diagrams",
+    "description": "Writing diagrams with Mermaid",
+    "slug": "/markdown-features/diagrams"
+  },
+  "sidebar": "mySidebar",
+  "previous": {
+    "title": "Code blocks",
+    "permalink": "/docs/markdown-features/code-blocks"
+  },
+  "next": {
+    "title": "Head metadata",
+    "permalink": "/docs/markdown-features/head-metadata"
+  }
+}

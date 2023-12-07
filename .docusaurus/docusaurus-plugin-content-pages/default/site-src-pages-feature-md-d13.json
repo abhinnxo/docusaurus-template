@@ -1,0 +1,8 @@
+{
+  "type": "mdx",
+  "permalink": "/feature",
+  "source": "@site/src/pages/feature.md",
+  "title": "Feature 1",
+  "frontMatter": {},
+  "unlisted": false
+}

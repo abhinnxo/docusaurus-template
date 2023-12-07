@@ -1,0 +1,25 @@
+{
+  "id": "tutorials/sidebar/multiple-sidebars",
+  "title": "Using multiple sidebars",
+  "description": "You can create a sidebar for each set of Markdown files that you want to group together.",
+  "source": "@site/docs/tutorials/sidebar/multiple-sidebars.mdx",
+  "sourceDirName": "tutorials/sidebar",
+  "slug": "/sidebar/multiple-sidebars",
+  "permalink": "/docs/sidebar/multiple-sidebars",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "slug": "/sidebar/multiple-sidebars"
+  },
+  "sidebar": "mySidebar",
+  "previous": {
+    "title": "Sidebar items",
+    "permalink": "/docs/sidebar/items"
+  },
+  "next": {
+    "title": "Deploy your site",
+    "permalink": "/docs/deploy-your-site"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "type": "mdx",
+  "permalink": "/feat/feature1",
+  "source": "@site/src/pages/feat/feature1.md",
+  "title": "New feature 1",
+  "frontMatter": {},
+  "unlisted": false
+}

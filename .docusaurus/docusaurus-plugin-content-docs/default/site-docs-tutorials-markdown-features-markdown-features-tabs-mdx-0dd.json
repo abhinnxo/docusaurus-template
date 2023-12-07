@@ -1,0 +1,27 @@
+{
+  "id": "tutorials/markdown-features/tabs",
+  "title": "Tabs",
+  "description": "Using tabs inside Docusaurus Markdown",
+  "source": "@site/docs/tutorials/markdown-features/markdown-features-tabs.mdx",
+  "sourceDirName": "tutorials/markdown-features",
+  "slug": "/markdown-features/tabs",
+  "permalink": "/docs/markdown-features/tabs",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "tabs",
+    "description": "Using tabs inside Docusaurus Markdown",
+    "slug": "/markdown-features/tabs"
+  },
+  "sidebar": "mySidebar",
+  "previous": {
+    "title": "MDX and React",
+    "permalink": "/docs/markdown-features/react"
+  },
+  "next": {
+    "title": "toc",
+    "permalink": "/docs/markdown-features/toc"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "tutorials/markdown-features/links",
+  "title": "Markdown links",
+  "description": "Links to other pages in Markdown",
+  "source": "@site/docs/tutorials/markdown-features/markdown-features-links.mdx",
+  "sourceDirName": "tutorials/markdown-features",
+  "slug": "/markdown-features/links",
+  "permalink": "/docs/markdown-features/links",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "links",
+    "description": "Links to other pages in Markdown",
+    "slug": "/markdown-features/links"
+  },
+  "sidebar": "mySidebar",
+  "previous": {
+    "title": "Markdown Features",
+    "permalink": "/docs/markdown-features"
+  },
+  "next": {
+    "title": "Math Equations",
+    "permalink": "/docs/markdown-features/math-equations"
+  }
+}

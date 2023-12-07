@@ -1,0 +1,19 @@
+{
+  "id": "footer/brand-icon",
+  "title": "brand icon",
+  "description": "",
+  "source": "@site/docs/footer/brand-icon.md",
+  "sourceDirName": "footer",
+  "slug": "/footer/brand-icon",
+  "permalink": "/docs/footer/brand-icon",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "mySidebar",
+  "previous": {
+    "title": "Deploy your site",
+    "permalink": "/docs/tutorials/deploy-your-site"
+  }
+}

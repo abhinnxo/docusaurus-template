@@ -1,0 +1,27 @@
+{
+  "id": "tutorials/Components/head-metadata",
+  "title": "Head metadata",
+  "description": "Declaring page-specific head metadata through MDX",
+  "source": "@site/docs/tutorials/Components/markdown-features-head-metadata.mdx",
+  "sourceDirName": "tutorials/Components",
+  "slug": "/markdown-features/head-metadata",
+  "permalink": "/docs/markdown-features/head-metadata",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "head-metadata",
+    "description": "Declaring page-specific head metadata through MDX",
+    "slug": "/markdown-features/head-metadata"
+  },
+  "sidebar": "mySidebar",
+  "previous": {
+    "title": "Diagrams",
+    "permalink": "/docs/markdown-features/diagrams"
+  },
+  "next": {
+    "title": "Markdown Features",
+    "permalink": "/docs/markdown-features"
+  }
+}

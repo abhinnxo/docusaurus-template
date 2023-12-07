@@ -1,0 +1,23 @@
+{
+  "id": "tutorials/Components/markdown-features-math-equations",
+  "title": "markdown-features-math-equations",
+  "description": "",
+  "source": "@site/docs/tutorials/Components/markdown-features-math-equations.mdx",
+  "sourceDirName": "tutorials/Components",
+  "slug": "/tutorials/Components/markdown-features-math-equations",
+  "permalink": "/docs/tutorials/Components/markdown-features-math-equations",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "mySidebar",
+  "previous": {
+    "title": "Markdown links",
+    "permalink": "/docs/markdown-features/links"
+  },
+  "next": {
+    "title": "MDX Plugins",
+    "permalink": "/docs/markdown-features/plugins"
+  }
+}

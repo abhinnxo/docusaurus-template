@@ -1,0 +1,27 @@
+{
+  "id": "tutorials/multi-instance",
+  "title": "Docs Multi-instance",
+  "description": "Use multiple docs plugin instances on a single Docusaurus site.",
+  "source": "@site/docs/tutorials/docs-multi-instance.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/docs-multi-instance",
+  "permalink": "/docs/docs-multi-instance",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "multi-instance",
+    "description": "Use multiple docs plugin instances on a single Docusaurus site.",
+    "slug": "/docs-multi-instance"
+  },
+  "sidebar": "mySidebar",
+  "previous": {
+    "title": "Deploy your site",
+    "permalink": "/docs/tutorials/deploy-your-site"
+  },
+  "next": {
+    "title": "Sidebar",
+    "permalink": "/docs/sidebar"
+  }
+}

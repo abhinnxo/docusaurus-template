@@ -1,0 +1,27 @@
+{
+  "id": "tutorials/markdown-features/assets",
+  "title": "Assets",
+  "description": "Handling assets in Docusaurus Markdown",
+  "source": "@site/docs/tutorials/markdown-features/markdown-features-assets.mdx",
+  "sourceDirName": "tutorials/markdown-features",
+  "slug": "/markdown-features/assets",
+  "permalink": "/docs/markdown-features/assets",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "assets",
+    "description": "Handling assets in Docusaurus Markdown",
+    "slug": "/markdown-features/assets"
+  },
+  "sidebar": "mySidebar",
+  "previous": {
+    "title": "Admonitions",
+    "permalink": "/docs/markdown-features/admonitions"
+  },
+  "next": {
+    "title": "Code blocks",
+    "permalink": "/docs/markdown-features/code-blocks"
+  }
+}

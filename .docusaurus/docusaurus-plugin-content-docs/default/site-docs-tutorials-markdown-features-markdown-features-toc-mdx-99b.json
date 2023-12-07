@@ -1,0 +1,23 @@
+{
+  "id": "tutorials/markdown-features/toc",
+  "title": "toc",
+  "description": "Customizing headings and table-of-contents in Markdown",
+  "source": "@site/docs/tutorials/markdown-features/markdown-features-toc.mdx",
+  "sourceDirName": "tutorials/markdown-features",
+  "slug": "/markdown-features/toc",
+  "permalink": "/docs/markdown-features/toc",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "toc",
+    "description": "Customizing headings and table-of-contents in Markdown",
+    "slug": "/markdown-features/toc"
+  },
+  "sidebar": "mySidebar",
+  "previous": {
+    "title": "Tabs",
+    "permalink": "/docs/markdown-features/tabs"
+  }
+}

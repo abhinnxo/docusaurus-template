@@ -1,0 +1,27 @@
+{
+  "id": "tutorials/Components/plugins",
+  "title": "MDX Plugins",
+  "description": "Using MDX plugins to expand Docusaurus Markdown functionalities",
+  "source": "@site/docs/tutorials/Components/markdown-features-plugins.mdx",
+  "sourceDirName": "tutorials/Components",
+  "slug": "/markdown-features/plugins",
+  "permalink": "/docs/markdown-features/plugins",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "plugins",
+    "description": "Using MDX plugins to expand Docusaurus Markdown functionalities",
+    "slug": "/markdown-features/plugins"
+  },
+  "sidebar": "mySidebar",
+  "previous": {
+    "title": "markdown-features-math-equations",
+    "permalink": "/docs/tutorials/Components/markdown-features-math-equations"
+  },
+  "next": {
+    "title": "markdown-features-react",
+    "permalink": "/docs/tutorials/Components/markdown-features-react"
+  }
+}

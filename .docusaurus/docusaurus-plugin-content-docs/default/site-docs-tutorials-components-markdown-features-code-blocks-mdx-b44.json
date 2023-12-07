@@ -1,0 +1,27 @@
+{
+  "id": "tutorials/Components/code-blocks",
+  "title": "Code blocks",
+  "description": "Handling code blocks in Docusaurus Markdown",
+  "source": "@site/docs/tutorials/Components/markdown-features-code-blocks.mdx",
+  "sourceDirName": "tutorials/Components",
+  "slug": "/markdown-features/code-blocks",
+  "permalink": "/docs/markdown-features/code-blocks",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "code-blocks",
+    "description": "Handling code blocks in Docusaurus Markdown",
+    "slug": "/markdown-features/code-blocks"
+  },
+  "sidebar": "mySidebar",
+  "previous": {
+    "title": "markdown-features-assets",
+    "permalink": "/docs/tutorials/Components/markdown-features-assets"
+  },
+  "next": {
+    "title": "Diagrams",
+    "permalink": "/docs/markdown-features/diagrams"
+  }
+}

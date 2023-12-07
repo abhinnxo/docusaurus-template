@@ -1,0 +1,16 @@
+{
+  "title": "Tutorial - Basics",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/tutorial---basics",
+  "permalink": "/docs/category/tutorial---basics",
+  "navigation": {
+    "previous": {
+      "title": "Create a Document",
+      "permalink": "/docs/tutorials/create-a-document"
+    },
+    "next": {
+      "title": "Markdown Features",
+      "permalink": "/docs/tutorials/tutorial-basics/markdown-features"
+    }
+  }
+}

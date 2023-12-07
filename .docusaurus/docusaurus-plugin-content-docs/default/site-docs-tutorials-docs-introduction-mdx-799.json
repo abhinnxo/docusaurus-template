@@ -1,0 +1,27 @@
+{
+  "id": "tutorials/introduction",
+  "title": "Docs Introduction",
+  "description": "The docs feature provides users with a way to organize Markdown files in a hierarchical format.",
+  "source": "@site/docs/tutorials/docs-introduction.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/docs-introduction",
+  "permalink": "/docs/docs-introduction",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "introduction",
+    "sidebar_label": "Introduction",
+    "slug": "/docs-introduction"
+  },
+  "sidebar": "mySidebar",
+  "previous": {
+    "title": "Create a doc",
+    "permalink": "/docs/create-doc"
+  },
+  "next": {
+    "title": "Docs Multi-instance",
+    "permalink": "/docs/docs-multi-instance"
+  }
+}
