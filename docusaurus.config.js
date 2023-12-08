@@ -1,4 +1,3 @@
-// @ts-check
 // Find all config settings here: https://docusaurus.io/docs/api/docusaurus-config
 
 import { themes as prismThemes } from "prism-react-renderer";
@@ -108,6 +107,17 @@ const config = {
       additionalLanguages: ["powershell", "php", "django"],
     },
   },
+
+  // plugins: [
+  //   [
+  //     "@docusaurus/plugin-content-docs",
+  //     {
+  //       id: "xyz",
+  //       path: "xyz",
+  //       routeBasePath: "xyz",
+  //     },
+  //   ],
+  // ],
 };
 
 export default config;
